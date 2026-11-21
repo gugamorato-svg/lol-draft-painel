@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+
+# Dados baixados e gerados (cada pessoa gera os seus)
+data/oracle_elixir/
+data/*.pkl
+data/model_*.csv
+data/model_meta.json
+data/live_wr_*
+data/last_trained_data_date.txt
+data/champion_matchups.csv
+data/champion_synergies.csv
+data/league_strength.csv
+data/curated_baselines.csv
+data/test_predictions.csv
+data/live_log/
+
+# Logs e relatórios locais
+logs/
+reports/
+
+# Segredos e configuração local
+.env
+*.local.json
+
+# Sistema
+.DS_Store
+Thumbs.db
