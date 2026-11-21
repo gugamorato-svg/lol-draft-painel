@@ -1,5 +1,7 @@
 # LoL Draft Painel
 
+[![tests](https://github.com/gugamorato-svg/lol-draft-painel/actions/workflows/tests.yml/badge.svg)](https://github.com/gugamorato-svg/lol-draft-painel/actions/workflows/tests.yml)
+
 Painel desktop (Python + PyQt6) para acompanhar partidas **profissionais** de League of Legends ao vivo: puxa a partida que está rolando, mostra os jogadores e campeões reais do mapa atual e estima a chance de vitória de Blue e Red a partir do draft, dos times e dos jogadores.
 
 > *English summary:* a desktop panel that follows pro League of Legends matches live, pulls the real players and champions of the current map from the official live stats feed, and estimates Blue vs Red win probability from the draft, teams and players. Python 3.11+, PyQt6, scikit-learn. Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
