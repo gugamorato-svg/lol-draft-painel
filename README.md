@@ -4,6 +4,10 @@
 
 Painel desktop (Python + PyQt6) para acompanhar partidas **profissionais** de League of Legends ao vivo: puxa a partida que está rolando, mostra os jogadores e campeões reais do mapa atual e estima a chance de vitória de Blue e Red a partir do draft, dos times e dos jogadores.
 
+![LoL Draft Painel comparando T1 e Gen.G](docs/painel.png)
+
+*Busca manual T1 vs Gen.G: previsão de vitória, comparação entre os times e confronto de cada lane.*
+
 > *English summary:* a desktop panel that follows pro League of Legends matches live, pulls the real players and champions of the current map from the official live stats feed, and estimates Blue vs Red win probability from the draft, teams and players. Python 3.11+, PyQt6, scikit-learn. Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## O que ele faz
